@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Pic Viewer</string>
+    <string name="app_title">Basic Image Viewer App</string>
+    <string name="app_image_id_text">Enter any number below 100</string>
+    <string name="btn_text">Fetch New Image</string>
+    <string name="image_desc">User selected image</string>
+</resources>
