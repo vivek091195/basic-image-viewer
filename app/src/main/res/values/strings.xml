@@ -4,4 +4,6 @@
     <string name="app_image_id_text">Enter any number below 100</string>
     <string name="btn_text">Fetch New Image</string>
     <string name="image_desc">User selected image</string>
+    <string name="convert">Convert</string>
+    <string name="restore">Restore</string>
 </resources>
